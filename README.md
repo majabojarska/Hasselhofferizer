@@ -1,11 +1,11 @@
 # Hasselhofferizer
 Hasselhofferize your colleague's desktop in a flash!
 
-![Hasselhoferizer demo](media/HasselhofferizerDemo.gif)
+![Hasselhofferizer demo](media/HasselhofferizerDemo.gif)
 
 ## About
 
-This Arduino sketch executes a Powershell script that changes the system's wallpaper to the mighty David Hasselhoff in it's most badass form possible.
+This Arduino sketch executes a Powershell script that changes the system's wallpaper to the mighty David Hasselhoff in its most badass form possible.
 
 The image URL can be changed however you like.
 
