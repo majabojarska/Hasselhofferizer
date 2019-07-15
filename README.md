@@ -9,6 +9,9 @@ This Arduino sketch executes a Powershell script that changes the system's wallp
 
 The image URL can be changed however you like.
 
+#### Update:
+Apparently, company notebooks might have some kind of security feature that doesn't just enable any device that is plugged in.
+
 ## Requirements
 - Arduino Pro Micro. However, any Arduino-compatible board with native USB support will probably work too.
 - Internet connection, because the Powershell script downloads a JPEG image from an online location.
